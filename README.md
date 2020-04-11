@@ -4,6 +4,9 @@
 
 Welcome to the Ruby implementation of Twofold.
 
+[![Gem Version](https://img.shields.io/gem/v/twofold.svg)](http://rubygems.org/gems/twofold)
+[![Build Status](https://img.shields.io/travis/hicknhack-software/twofold-ruby.svg?branch=master)](http://travis-ci.org/hicknhack-software/twofold-ruby)
+
 ## Motivation
 
 Most template engines like Slim or Haml are focused towards HTML.
@@ -81,7 +84,7 @@ This is because we call `greet_method` with the two space indentation.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'twofold-temple'
+gem 'twofold'
 ```
 
 ## Usage
@@ -108,7 +111,7 @@ which will create a git tag for the version, push git commits and tags, and push
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/hicknhack-software/twofold.temple. 
 This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to 
-the [code of conduct](https://github.com/hicknhack-software/twofold-temple/blob/master/CODE_OF_CONDUCT.md).
+the [code of conduct](https://github.com/hicknhack-software/twofold-ruby/blob/master/CODE_OF_CONDUCT.md).
 
 ## License
 
@@ -117,4 +120,4 @@ Twofold is released under the terms of the [MIT License](https://opensource.org/
 ## Code of Conduct
 
 Everyone interacting in the twofold project's codebases, issue trackers, chat rooms and mailing lists 
-is expected to follow the [code of conduct](https://github.com/[USERNAME]/Twofold-Temple/blob/master/CODE_OF_CONDUCT.md).
+is expected to follow the [code of conduct](https://github.com/hicknhack-software/twofold-ruby/blob/master/CODE_OF_CONDUCT.md).
