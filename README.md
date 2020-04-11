@@ -27,7 +27,7 @@ With the power of Ruby it's all very easy.
 Unlike most template languages every line is Ruby unless it starts with on of:
 
 * `|` - followed by output text, breaks the output line
-* `\\` - followed by output text without breaking the output line
+* `\` - followed by output text without breaking the output line
 * `=` - followed by ruby code
 
 Output text can contain `#{interpolated}` ruby code.
