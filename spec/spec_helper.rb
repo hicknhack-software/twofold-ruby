@@ -1,5 +1,5 @@
-require "bundler/setup"
-require "Twofold"
+require 'bundler/setup'
+require 'twofold'
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
